@@ -1,0 +1,659 @@
+{
+    "code": 1,
+    "msg": "操作成功",
+    "list": [
+        {
+            "id": "2845",
+            "name": "服装鞋包",
+            "cat_id": "324",
+            "p_id": "0",
+            "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57171df39105f",
+            "img_b": null,
+            "banner": [
+                {
+                    "title": "零购官网零元夺宝",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57563bfe12ae9?imageMogr2/quality/80/format/jpg",
+                    "url": "http://www.0gow.com/login/wx?reffer=http%3a%2f%2fact.0gow.com%2fgoods"
+                }
+            ],
+            "list": [
+                {
+                    "id": "2846",
+                    "name": "女装",
+                    "cat_id": "325",
+                    "p_id": "324",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5772449f32e75",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777af13f31f9"
+                },
+                {
+                    "id": "2847",
+                    "name": "男装",
+                    "cat_id": "326",
+                    "p_id": "324",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577244ad0c81e",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777af033b95a"
+                },
+                {
+                    "id": "2848",
+                    "name": "女鞋",
+                    "cat_id": "328",
+                    "p_id": "324",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577244b8b577d",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777af2d9a33d"
+                },
+                {
+                    "id": "2849",
+                    "name": "男鞋",
+                    "cat_id": "327",
+                    "p_id": "324",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577244c3a5d61",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777af3bd317d"
+                },
+                {
+                    "id": "2850",
+                    "name": "内衣",
+                    "cat_id": "426",
+                    "p_id": "324",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577244d25a9a3",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777af48b97ea"
+                },
+                {
+                    "id": "2851",
+                    "name": "家居服",
+                    "cat_id": "352",
+                    "p_id": "324",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577244dfbb65a",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777af530a994"
+                },
+                {
+                    "id": "2852",
+                    "name": "箱包",
+                    "cat_id": "332",
+                    "p_id": "324",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577244ed3e1d5",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777af606e05c"
+                },
+                {
+                    "id": "2853",
+                    "name": "服装配饰",
+                    "cat_id": "345",
+                    "p_id": "324",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577244f90e723",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777af6b83add"
+                }
+            ]
+        },
+        {
+            "id": "2854",
+            "name": "食品饮料",
+            "cat_id": "376",
+            "p_id": "0",
+            "img": "http://www.0gow.com/static/images/category/sp.png",
+            "img_b": null,
+            "banner": [
+                {
+                    "title": "零购官网零元夺宝",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57563bfe12ae9?imageMogr2/quality/80/format/jpg",
+                    "url": "http://www.0gow.com/login/wx?reffer=http%3a%2f%2fact.0gow.com%2fgoods"
+                }
+            ],
+            "list": [
+                {
+                    "id": "2855",
+                    "name": "零食特产",
+                    "cat_id": "379",
+                    "p_id": "376",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57724541047c5",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777af9982875"
+                },
+                {
+                    "id": "2856",
+                    "name": "粮油干货",
+                    "cat_id": "380",
+                    "p_id": "376",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777a4ef0e79a",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777afb0a122c"
+                },
+                {
+                    "id": "2857",
+                    "name": "茶酒冲饮",
+                    "cat_id": "382",
+                    "p_id": "376",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57724574271dc",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777afbba2787"
+                },
+                {
+                    "id": "2858",
+                    "name": "生鲜蔬果",
+                    "cat_id": "381",
+                    "p_id": "376",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5772459563cf6",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b31cb0556"
+                },
+                {
+                    "id": "2859",
+                    "name": "进口食品",
+                    "cat_id": "378",
+                    "p_id": "376",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577245a08be8c",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777afd39998f"
+                },
+                {
+                    "id": "2860",
+                    "name": "膳食保健",
+                    "cat_id": "370",
+                    "p_id": "376",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577245b585cda",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b00934bb6"
+                }
+            ]
+        },
+        {
+            "id": "2861",
+            "name": "日用百货",
+            "cat_id": "429",
+            "p_id": "0",
+            "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57171e96b0758",
+            "img_b": null,
+            "banner": [
+                {
+                    "title": "零购官网零元夺宝",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57563bfe12ae9?imageMogr2/quality/80/format/jpg",
+                    "url": "http://www.0gow.com/login/wx?reffer=http%3a%2f%2fact.0gow.com%2fgoods"
+                }
+            ],
+            "list": [
+                {
+                    "id": "2862",
+                    "name": "厨房用品",
+                    "cat_id": "398",
+                    "p_id": "429",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577245c18d9d7",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b03a7a7a8"
+                },
+                {
+                    "id": "2863",
+                    "name": "居家日用",
+                    "cat_id": "393",
+                    "p_id": "429",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577245d3da481",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b04a1fc41"
+                },
+                {
+                    "id": "2864",
+                    "name": "家庭保健",
+                    "cat_id": "353",
+                    "p_id": "429",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5772460779c3c",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b062cb18e"
+                },
+                {
+                    "id": "2865",
+                    "name": "计生用品",
+                    "cat_id": "373",
+                    "p_id": "429",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577246214068d",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b06f7e733"
+                }
+            ]
+        },
+        {
+            "id": "2866",
+            "name": "母婴儿童",
+            "cat_id": "413",
+            "p_id": "0",
+            "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5772471005ac1",
+            "img_b": null,
+            "banner": [
+                {
+                    "title": "零购官网零元夺宝",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57563bfe12ae9?imageMogr2/quality/80/format/jpg",
+                    "url": "http://www.0gow.com/login/wx?reffer=http%3a%2f%2fact.0gow.com%2fgoods"
+                }
+            ],
+            "list": [
+                {
+                    "id": "2867",
+                    "name": "母婴用品",
+                    "cat_id": "414",
+                    "p_id": "413",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5772466777042",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b0af3e807"
+                },
+                {
+                    "id": "2868",
+                    "name": "儿童用品",
+                    "cat_id": "383",
+                    "p_id": "413",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57724685811b0",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b0c334477"
+                }
+            ]
+        },
+        {
+            "id": "2869",
+            "name": "运动户外",
+            "cat_id": "338",
+            "p_id": "0",
+            "img": "http://www.0gow.com/static/images/category/hw.png",
+            "img_b": null,
+            "banner": [
+                {
+                    "title": "零购官网零元夺宝",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57563bfe12ae9?imageMogr2/quality/80/format/jpg",
+                    "url": "http://www.0gow.com/login/wx?reffer=http%3a%2f%2fact.0gow.com%2fgoods"
+                }
+            ],
+            "list": [
+                {
+                    "id": "2870",
+                    "name": "运动装",
+                    "cat_id": "341",
+                    "p_id": "338",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57724715c6c04",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b0d3d6477"
+                },
+                {
+                    "id": "2871",
+                    "name": "运动鞋",
+                    "cat_id": "342",
+                    "p_id": "338",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57724728ab0e9",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b0ea322f4"
+                },
+                {
+                    "id": "2872",
+                    "name": "运动包",
+                    "cat_id": "335",
+                    "p_id": "338",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5772473b98e13",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b0fa038e6"
+                },
+                {
+                    "id": "2873",
+                    "name": "户外用品",
+                    "cat_id": "340",
+                    "p_id": "338",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5772475ebf9b7",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b10612a8f"
+                },
+                {
+                    "id": "2874",
+                    "name": "健身器材",
+                    "cat_id": "351",
+                    "p_id": "338",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5772476a34d97",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b114ef52e"
+                }
+            ]
+        },
+        {
+            "id": "2875",
+            "name": "美妆个护",
+            "cat_id": "375",
+            "p_id": "0",
+            "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_576e4dbdc3dba",
+            "img_b": null,
+            "banner": [
+                {
+                    "title": "零购官网零元夺宝",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57563bfe12ae9?imageMogr2/quality/80/format/jpg",
+                    "url": "http://www.0gow.com/login/wx?reffer=http%3a%2f%2fact.0gow.com%2fgoods"
+                }
+            ],
+            "list": [
+                {
+                    "id": "2876",
+                    "name": "护肤品",
+                    "cat_id": "368",
+                    "p_id": "375",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577248c8738b0",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b12296884"
+                },
+                {
+                    "id": "2877",
+                    "name": "彩妆",
+                    "cat_id": "349",
+                    "p_id": "375",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577248d7487e6",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b12db3f28"
+                },
+                {
+                    "id": "2878",
+                    "name": "美发沐浴",
+                    "cat_id": "359",
+                    "p_id": "375",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577248e332f38",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b13a6d57f"
+                },
+                {
+                    "id": "2879",
+                    "name": "口腔护理",
+                    "cat_id": "361",
+                    "p_id": "375",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577248f31afdb",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b1504ff84"
+                },
+                {
+                    "id": "2880",
+                    "name": "个人护理",
+                    "cat_id": "364",
+                    "p_id": "375",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57724900df2c4",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b160d2ca5"
+                }
+            ]
+        },
+        {
+            "id": "2881",
+            "name": "珠宝首饰",
+            "cat_id": "350",
+            "p_id": "0",
+            "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_576e4ed327516",
+            "img_b": null,
+            "banner": [
+                {
+                    "title": "零购官网零元夺宝",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57563bfe12ae9?imageMogr2/quality/80/format/jpg",
+                    "url": "http://www.0gow.com/login/wx?reffer=http%3a%2f%2fact.0gow.com%2fgoods"
+                }
+            ],
+            "list": [
+                {
+                    "id": "2882",
+                    "name": "潮流饰品",
+                    "cat_id": "366",
+                    "p_id": "350",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577249bf0772e",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b1772188f"
+                },
+                {
+                    "id": "2883",
+                    "name": "钟表",
+                    "cat_id": "347",
+                    "p_id": "350",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577249ce65cbc",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b18492e90"
+                },
+                {
+                    "id": "2884",
+                    "name": "眼镜",
+                    "cat_id": "354",
+                    "p_id": "350",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577249dd2e4a6",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b193891bf"
+                }
+            ]
+        },
+        {
+            "id": "2885",
+            "name": "家装家居",
+            "cat_id": "422",
+            "p_id": "0",
+            "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_576e4ef0278b5",
+            "img_b": null,
+            "banner": [
+                {
+                    "title": "零购官网零元夺宝",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57563bfe12ae9?imageMogr2/quality/80/format/jpg",
+                    "url": "http://www.0gow.com/login/wx?reffer=http%3a%2f%2fact.0gow.com%2fgoods"
+                }
+            ],
+            "list": [
+                {
+                    "id": "2886",
+                    "name": "床上用品",
+                    "cat_id": "360",
+                    "p_id": "422",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57724935bf9cc",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b1e02ce2e"
+                },
+                {
+                    "id": "2887",
+                    "name": "生活家具",
+                    "cat_id": "401",
+                    "p_id": "422",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577249294fa4c",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b1ea5086f"
+                },
+                {
+                    "id": "2888",
+                    "name": "家装建材",
+                    "cat_id": "337",
+                    "p_id": "422",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577249444faa3",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b1f413865"
+                },
+                {
+                    "id": "2889",
+                    "name": "厨房卫浴",
+                    "cat_id": "348",
+                    "p_id": "422",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57724958e516a",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b1feb6200"
+                },
+                {
+                    "id": "2890",
+                    "name": "五金灯饰",
+                    "cat_id": "356",
+                    "p_id": "422",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57724967e11ea",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b20ac4702"
+                }
+            ]
+        },
+        {
+            "id": "2891",
+            "name": "办公用品",
+            "cat_id": "428",
+            "p_id": "0",
+            "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57171f0031440",
+            "img_b": null,
+            "banner": [
+                {
+                    "title": "零购官网零元夺宝",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57563bfe12ae9?imageMogr2/quality/80/format/jpg",
+                    "url": "http://www.0gow.com/login/wx?reffer=http%3a%2f%2fact.0gow.com%2fgoods"
+                }
+            ],
+            "list": [
+                {
+                    "id": "2892",
+                    "name": "设备耗材",
+                    "cat_id": "410",
+                    "p_id": "428",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577247a898014",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b1a8bfe97"
+                },
+                {
+                    "id": "2893",
+                    "name": "文化用品",
+                    "cat_id": "388",
+                    "p_id": "428",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577247be4d05a",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b1b301f89"
+                }
+            ]
+        },
+        {
+            "id": "2894",
+            "name": "家用电器",
+            "cat_id": "392",
+            "p_id": "0",
+            "img": "http://www.0gow.com/static/images/category/jy.png",
+            "img_b": null,
+            "banner": [
+                {
+                    "title": "零购官网零元夺宝",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57563bfe12ae9?imageMogr2/quality/80/format/jpg",
+                    "url": "http://www.0gow.com/login/wx?reffer=http%3a%2f%2fact.0gow.com%2fgoods"
+                }
+            ],
+            "list": [
+                {
+                    "id": "2895",
+                    "name": "大家电",
+                    "cat_id": "372",
+                    "p_id": "392",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577247d28ad50",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b221d5b1f"
+                },
+                {
+                    "id": "2896",
+                    "name": "厨房家电",
+                    "cat_id": "358",
+                    "p_id": "392",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577247ed3db6d",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b22caa686"
+                },
+                {
+                    "id": "2897",
+                    "name": "生活电器",
+                    "cat_id": "355",
+                    "p_id": "392",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577248024a0dd",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b2389ee84"
+                }
+            ]
+        },
+        {
+            "id": "2898",
+            "name": "数码周边",
+            "cat_id": "384",
+            "p_id": "0",
+            "img": "http://www.0gow.com/static/images/category/sm.png",
+            "img_b": null,
+            "banner": [
+                {
+                    "title": "零购官网零元夺宝",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57563bfe12ae9?imageMogr2/quality/80/format/jpg",
+                    "url": "http://www.0gow.com/login/wx?reffer=http%3a%2f%2fact.0gow.com%2fgoods"
+                }
+            ],
+            "list": [
+                {
+                    "id": "2899",
+                    "name": "3C数码",
+                    "cat_id": "377",
+                    "p_id": "384",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777a7952cb94",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b2cf448c1"
+                },
+                {
+                    "id": "2900",
+                    "name": "网络设备",
+                    "cat_id": "329",
+                    "p_id": "384",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577248550d12b",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b2c35820c"
+                },
+                {
+                    "id": "2901",
+                    "name": "配件耗材",
+                    "cat_id": "333",
+                    "p_id": "384",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5772486c5f5a5",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b2b23ee84"
+                }
+            ]
+        },
+        {
+            "id": "2902",
+            "name": "汽车用品",
+            "cat_id": "423",
+            "p_id": "0",
+            "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_576e4f902f46b",
+            "img_b": null,
+            "banner": [
+                {
+                    "title": "零购官网零元夺宝",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57563bfe12ae9?imageMogr2/quality/80/format/jpg",
+                    "url": "http://www.0gow.com/login/wx?reffer=http%3a%2f%2fact.0gow.com%2fgoods"
+                }
+            ],
+            "list": [
+                {
+                    "id": "2903",
+                    "name": "汽车配件",
+                    "cat_id": "405",
+                    "p_id": "423",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5772481c6d865",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b2a206528"
+                },
+                {
+                    "id": "2904",
+                    "name": "车载用品",
+                    "cat_id": "343",
+                    "p_id": "423",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5772482869b86",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b29872059"
+                },
+                {
+                    "id": "2905",
+                    "name": "美容保养",
+                    "cat_id": "336",
+                    "p_id": "423",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57724833e5d56",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b2868a7a7"
+                }
+            ]
+        },
+        {
+            "id": "2906",
+            "name": "文化娱乐",
+            "cat_id": "394",
+            "p_id": "0",
+            "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_576e4fe984ac0",
+            "img_b": null,
+            "banner": [
+                {
+                    "title": "零购官网零元夺宝",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57563bfe12ae9?imageMogr2/quality/80/format/jpg",
+                    "url": "http://www.0gow.com/login/wx?reffer=http%3a%2f%2fact.0gow.com%2fgoods"
+                }
+            ],
+            "list": [
+                {
+                    "id": "2907",
+                    "name": "图书杂志",
+                    "cat_id": "365",
+                    "p_id": "394",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_57724978efd98",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b270618db"
+                },
+                {
+                    "id": "2908",
+                    "name": "影音",
+                    "cat_id": "371",
+                    "p_id": "394",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577249883c8e8",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b267e714b"
+                },
+                {
+                    "id": "2909",
+                    "name": "乐器",
+                    "cat_id": "369",
+                    "p_id": "394",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577249934bd97",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b25f691ff"
+                },
+                {
+                    "id": "2910",
+                    "name": "宠物用品",
+                    "cat_id": "385",
+                    "p_id": "394",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577249a069797",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b25614f46"
+                },
+                {
+                    "id": "2911",
+                    "name": "鲜花绿植",
+                    "cat_id": "387",
+                    "p_id": "394",
+                    "img": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577249ae9076c",
+                    "img_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_5777b24bb1ce6"
+                }
+            ]
+        }
+    ]
+}
