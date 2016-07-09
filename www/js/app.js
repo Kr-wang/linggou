@@ -24,6 +24,11 @@ angular.module('starter', ['ionic'])
 })
 .config(function  ($stateProvider,$urlRouterProvider) {
   $stateProvider
+    .state('guide',{
+      url:'/guide',
+      templateUrl:'./tpls/guide.html',
+      // controller:'tabController'
+    })
     .state('tabs',{
       url:'/tab',
       templateUrl:'./tpls/tabs.html',
@@ -61,6 +66,6 @@ angular.module('starter', ['ionic'])
         }
       }
     })
-  $urlRouterProvider.otherwise('/tab'); 
+  $urlRouterProvider.otherwise('/tab');
   // body...
 })
