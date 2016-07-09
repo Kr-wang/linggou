@@ -66,6 +66,6 @@ angular.module('starter', ['ionic'])
         }
       }
     })
-  $urlRouterProvider.otherwise('/tab');
+  $urlRouterProvider.otherwise('/guide');
   // body...
 })
