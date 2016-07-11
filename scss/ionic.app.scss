@@ -20,4 +20,9 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 
 // Include all of Ionic
 @import "www/lib/ionic/scss/ionic";
-@import "./sort.scss";
+html,body{
+	font-size:100px;
+}
+@import "./styles/sort.scss";
+@import "./styles/list.scss";
+@import "./styles/my.scss";
