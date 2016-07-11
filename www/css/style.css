@@ -1,1 +1,67 @@
 /* Empty. Add your own CSS if you like */
+.home-tab{
+  background-color: #eee;
+  border-top: 1px solid #eee;
+}
+
+.home-top{
+  border-bottom: 1px solid #eee;
+}
+.home-top .home-topdev{
+  height: 100%;
+  width: 100%;
+}
+.home-topdev label{
+
+  height: 100%;
+  line-height: 100%;
+  margin: 0;
+  padding: 0;
+
+}
+.home-topdev label input{
+  display: inline-block;
+  height: 100%;
+  line-height: 80%;
+
+}
+.home-topdev bottom{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+display: inline-block;
+};
+.homeswiper .swiper-wrapper{
+  height: 1.05rem !important;
+}
+.homeswiper .swiper-wrapper .home-swiper-slide{
+  height: 105px !important;
+}
+
+.home-center{
+  height: 2.5rem;
+  font-size: .1rem;
+
+}
+.home-row img{
+  display: inline-block;
+  width: 1.5rem;
+}
+.home-conten{
+  height: 1.25rem;
+}
+.home-bottom{
+  display: inline-block;
+  height: .9rem !important;
+  border-radius: 8px;
+  line-height: .9rem;
+  font-size: .3rem;
+  border: none;
+  padding: 0;
+  margin: 0;
+
+}
+#home-li li{
+  height: 5rem;
+  box-shadow: 0 0 1px #eee;
+}
