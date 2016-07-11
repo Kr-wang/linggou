@@ -71,5 +71,5 @@ angular.module('starter', ['ionic','starter.controller'])
         }
       }
     })
-  $urlRouterProvider.otherwise('/list');
+  $urlRouterProvider.otherwise('/guide');
 })

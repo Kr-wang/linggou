@@ -1,15 +1,14 @@
 ion-content.list-content{
 	background: #eeeff0;
 	ul{ 
+		padding:0 !important;
+		margin-bottom:12px !important;
 		li{
 			font-size: .14rem;
 			width: 49.5%;
-			float: left;
 			background: #fff;
-			padding:0 !important;
-			margin-bottom: .08rem !important;
-			&:nth-child(2n){
-				float: right;
+			&:nth-child(1){
+				margin-right: 7px !important;
 			}
 			img{
 				width: 100% !important;

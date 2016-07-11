@@ -3,8 +3,16 @@ angular.module('starter.controller', [])
   	$http.get('/mock/list.json')
     .then(
       function (res) {
-      	console.log(res.data.list[1].default_image)
-        $scope.livelist = res.data.list;
+        $scope.formatData = function (arr) {
+              var tempArr = [];
+             for (var i = 0; i < Math.ceil(arr.length/2); i++) {
+               tempArr[i] = [];
+               tempArr[i].push(arr[2*i]);
+               tempArr[i].push(arr[2*i+1]);              
+             }
+             return tempArr;
+           }
+        $scope.livelist = $scope.formatData(res.data.list);
       },
       function (err) {
         console.error(err);

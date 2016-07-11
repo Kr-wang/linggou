@@ -13,11 +13,11 @@
       scroll-event-interval="30"
       class="list-content"
     >
-      <ul class="list">
-        <li class="item" ng-repeat="obj in livelist">
-          <img ng-src="{{obj.default_image}}"/>
-          <div class="productName">{{obj.goods_name}}</div>
-          <div class="price"><span>{{obj.Price | currency:'￥':0}}<span><a>{{obj.scPrice | currency:'￥':0}}</a></div>
+      <ul class="list row row-top" ng-repeat="obj in livelist">
+        <li class="col item" ng-repeat="con in obj">
+          <img ng-src="{{con.default_image}}"/>
+          <div class="productName">{{con.goods_name}}</div>
+          <div class="price"><span>{{con.Price | currency:'￥':0}}<span><a>{{con.scPrice | currency:'￥':0}}</a></div>
         </li>
       </ul>
     </ion-content>
