@@ -29,6 +29,11 @@ angular.module('starter', ['ionic','starter.controller'])
       templateUrl:'./tpls/guide.html',
       controller:'guideController'
     })
+    .state('list',{
+      url:'/list',
+      templateUrl:'./tpls/list.html',
+      controller:'listController'
+    })
     .state('tabs',{
       url:'/tab',
       templateUrl:'./tpls/tabs.html',
@@ -67,6 +72,5 @@ angular.module('starter', ['ionic','starter.controller'])
         }
       }
     })
-  $urlRouterProvider.otherwise('/guide');
-  // body...
+  $urlRouterProvider.otherwise('/list');
 })

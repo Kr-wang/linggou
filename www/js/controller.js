@@ -2,6 +2,7 @@ angular.module('starter.controller', [])
   .controller('tabController', ['$scope', function ($scope) {
 
   }])
+<<<<<<< HEAD
   .controller('sortController', ['$scope','$http', '$log', function ($scope,$http, $log) {
 
     $http.get('./mock/sort.json')
@@ -44,10 +45,17 @@ angular.module('starter.controller', [])
         }
       );
 
+=======
+  .controller('listController', ['$scope', function ($scope) {
+    
+>>>>>>> master
   }])
   .controller('guideController', ['$scope', function ($scope,$urlRouterProvider) {
     $scope.guideSwpier = new Swiper('.guide',{
        loop:false
      });
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
   }])
