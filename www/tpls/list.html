@@ -13,8 +13,8 @@
       scroll-event-interval="30"
       class="list-content"
     >
-      <ul class="list">
-        <li class="item" ng-repeat="obj in livelist">
+      <ul class="list" >
+        <li class="item" ng-repeat="obj in livelist" >
           <img ng-src="{{obj.default_image}}"/>
           <div class="productName">{{obj.goods_name}}</div>
           <div class="price"><span>{{obj.Price | currency:'￥':0}}<span><a>{{obj.scPrice | currency:'￥':0}}</a></div>

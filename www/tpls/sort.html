@@ -39,11 +39,16 @@
     on-scroll="scrollAction()"
     on-scroll-complete="scrollEndAction()"
     scroll-event-interval="100">
-      <div class="sortsection" ng-repeat="list in sortlist" >
-        <h2 class="h2title">{{list.name}}</h2>
-        <div class="sortpic" >
-          <div class="row row-top" ng-repeat="describe in sortDescribe0">
-            <div class="col" ng-repeat="des in describe">
+      <div class="sortsection"  ng-repeat="data in alldata" >
+        <h2 class="h2title">{{listname.name}}</h2>
+        <div class="sortpic">
+          <!-- <li action-type="goto.detail" ms-attr-data-id="value[1].id" ms-class-hide="!value[1]">
+                      <img ms-src="value[1].imgsrc">
+                      <b ms-text="value[1].title"></b>
+                </li> -->
+          <div class="row row-top" ng-repeat="da in data">
+
+            <div class="col" ng-repeat="des in da"  >
               <img ng-src="{{des.img_b}}" />
               <span><i>{{des.name}}</i></span>
             </div>
