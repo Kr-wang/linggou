@@ -1,1 +1,71 @@
-<div>home...</div>
+<ion-pance   ng-app="home-app">
+<div class="bar bar-header bar-positive title row home-top">
+    <div class="col col-50 col-offset-10 home-topdev">
+         <label class="item item-input col-demo">
+           <i class="icon ion-search placeholder-icon"></i>
+           <input type="text" placeholder="Search">
+         </label>
+       </div>
+    <div class="col col-20 col-offset-20 home-topdev">
+      <button class="button button-clear button-icon ion-ios-bell-outline col-demo">
+
+     </button></div>
+   </div>
+   <ion-content class="home-swiper-container has-header"
+    ng-app="home-app"  ng-controller="employeeController ">
+  <div class="homeswiper" id="home-work">
+       <div class="swiper-wrapper" ng-repeat="emp in home" >
+
+          <img src="{{emp.banner}}" class="swiper-slide home-swiper-slide">
+          <img src="{{emp.cover_m}}"  class="swiper-slide home-swiper-slide">
+           <img src="{{emp.cover_s}}" class="swiper-slide home-swiper-slide">
+            <img src="{{emp.cover_b}}" class="swiper-slide home-swiper-slide">
+    
+         </div>
+       </div>
+<div class="home-center" >
+      <div class="row home-row" ng-controller="xController">
+            <div class="col"  ng-repeat="x in home">
+              <img src="{{x.img}}" alt="">
+              <p>{{x.title}}</p>
+            </div>
+
+    </div>
+</div>
+<div class="home-conten row" align-title="center">
+
+
+
+      <button class="home-bottom col col-95 col-offset-10 home-topdev">台风来了，知道这些可能会救你一命</button>
+
+
+
+
+</div>
+<div class="home-list" ng-controller="yController">
+<div class="list">
+<button class="botton col">精彩推荐</button>
+</div>
+<ul class="list row" id="home-li" ng-repeat="fn in home.ad.two">
+
+<li class="col col-50">
+  <h5>{{fn.title}}</h5>
+<h6>{{fn.stitle}}</h6>
+<img src="{{fn.img}}" alt="">
+
+</li>
+<li class="col col-50">
+  <h5>{{fn.title}}</h5>
+<h6>{{fn.stitle}}</h6>
+<img src="{{fn.img}}" alt="">
+</li>
+</ul>
+
+</div>
+<div class="list row"ng-repeat="ft in home.region">
+  <ul class="col col-50"><li>
+        <h5>{{ft.scPrice}}</h5>
+    <img src="{{ft.default_image}}" alt=""></li></ul>
+</div>
+</ion-content>
+</ion-pance>

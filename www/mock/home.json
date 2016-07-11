@@ -1,0 +1,1061 @@
+{
+    "code": 1,
+    "msg": "操作成功",
+    "home": {
+        "ad": {
+            "two": [
+                {
+                    "url": "http://www.0gow.com/category/index?id=368&pid=375",
+                    "title": "美丽护肤",
+                    "stitle": "绽放自信",
+                    "img": "http://7xt1hu.com1.z0.glb.clouddn.com/1467712590护肤品.png"
+                },
+                {
+                    "url": "http://www.0gow.com/category/index?id=393&pid=429",
+                    "title": "居家日用",
+                    "stitle": "便捷生活",
+                    "img": "http://7xt1hu.com1.z0.glb.clouddn.com/1467712605家居日用.png"
+                },
+                {
+                    "url": "http://www.0gow.com/category/index?id=348&pid=422",
+                    "title": "厨房卫浴",
+                    "stitle": "新品质生活",
+                    "img": "http://7xt1hu.com1.z0.glb.clouddn.com/1467712932厨房卫浴.png"
+                },
+                {
+                    "url": "http://www.0gow.com/category/index?id=340&pid=338",
+                    "title": "户外用品",
+                    "stitle": "时尚运动",
+                    "img": "http://7xt1hu.com1.z0.glb.clouddn.com/1467713005户外用品.png"
+                }
+            ],
+            "three": [
+                {
+                    "url": "http://www.0gow.com/category/index?id=379&pid=376",
+                    "title": "零食特产",
+                    "stitle": "舌尖美味",
+                    "img": "http://7xt1hu.com1.z0.glb.clouddn.com/1467172465零食特产.jpg"
+                },
+                {
+                    "url": "http://www.0gow.com/category/index?id=360&pid=422",
+                    "title": "床上用品",
+                    "stitle": "就是惬意",
+                    "img": "http://7xt1hu.com1.z0.glb.clouddn.com/1467172545床上用品.jpg"
+                },
+                {
+                    "url": "http://www.0gow.com/category/index?id=355&pid=392",
+                    "title": "生活电器",
+                    "stitle": "购酷购爽",
+                    "img": "http://7xt1hu.com1.z0.glb.clouddn.com/1467172760生活电器.jpg"
+                },
+                {
+                    "url": "http://www.0gow.com/category/index?id=426&pid=324",
+                    "title": "内衣",
+                    "stitle": "美美搭",
+                    "img": "http://7xt1hu.com1.z0.glb.clouddn.com/1467172812女士内衣.jpg"
+                }
+            ]
+        },
+        "icon": [
+            {
+                "url": "xxxx",
+                "title": "全部0元",
+                "img": "http://7xt1hu.com1.z0.glb.clouddn.com/1464408293全部0元1.png"
+            },
+            {
+                "url": "xxxx",
+                "title": "精品区",
+                "img": "http://7xt1hu.com1.z0.glb.clouddn.com/1464408299全部精品1.png"
+            },
+            {
+                "url": "http://www.0gow.com/appregion/index",
+                "title": "新品区",
+                "img": "http://7xt1hu.com1.z0.glb.clouddn.com/1464408310新品推荐1.png"
+            },
+            {
+                "url": "http://www.0gow.com/login/wx?reffer=http%3a%2f%2fact.0gow.com%2fgoods",
+                "title": "零购夺宝",
+                "img": "http://7xt1hu.com1.z0.glb.clouddn.com/1464859909icon.png"
+            },
+            {
+                "url": "http://act.0gow.com/appmiaosha",
+                "title": "一元秒杀",
+                "img": "http://7xt1hu.com1.z0.glb.clouddn.com/1464412372秒杀3.png"
+            }
+        ],
+        "banner": {
+            "ad_id": "1",
+            "items": [
+                {
+                    "url": "http://www.0gow.com/login/wx?reffer=http%3a%2f%2fwww.0gow.com%2fappsubject%2f82",
+                    "title": "夏凉节",
+                    "image": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577dda1b3dc96?imageMogr2/quality/80/format/jpg"
+                },
+                {
+                    "url": "http://www.0gow.com/login/wx?reffer=http%3a%2f%2fact.0gow.com%2fgoods",
+                    "title": "夺宝",
+                    "image": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577dda49659e2?imageMogr2/quality/80/format/jpg"
+                },
+                {
+                    "url": "http://mp.weixin.qq.com/s?__biz=MzI2NzE2NDQ4Nw==&mid=503914785&idx=1&sn=4fa60d1ecde2c1ac66b1a53ba9e96b44&scene=1&srcid=0606lgwCgzu9N7yEagVOkl0O#wechat_redirect",
+                    "title": "拍下减",
+                    "image": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577dda9622481?imageMogr2/quality/80/format/jpg"
+                },
+                {
+                    "url": "http://www.0gow.com/login/wx?reffer=http%3a%2f%2fwww.0gow.com%2fappsubject%2f87",
+                    "title": "内衣秀",
+                    "image": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_577f0bd35245f?imageMogr2/quality/80/format/jpg"
+                }
+            ]
+        },
+        "giftbanner": {
+            "ad_id": "1",
+            "items": [
+                {
+                    "url": " \thttp://mp.weixin.qq.com/s?__biz=MzI2NzE2NDQ4Nw==&mid=503914785&idx=1&sn=4fa60d1ecde2c1ac66b1a53ba9e96b44&scene=1&srcid=0606lgwCgzu9N7yEagVOkl0O#wech",
+                    "title": "拍立减",
+                    "image": "http://7xt1hu.com1.z0.glb.clouddn.com/1467909709123123.jpg"
+                }
+            ]
+        },
+        "subject": [
+            {
+            
+                "banner": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_56eba1363c11c?imageMogr2/quality/80/format/jpg",
+                "cover_m": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_56e8b431a9bde?imageMogr2/thumbnail/320x/strip/quality/80/format/jpg",
+                "cover_s": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_56e8b431a9bde?imageMogr2/thumbnail/240x/strip/quality/80/format/jpg",
+                "cover_b": "http://7xp28h.com1.z0.glb.clouddn.com/comment0gow_56e8b431a9bde?imageMogr2/thumbnail/640x/strip/quality/80/format/jpg"
+            }
+
+        ],
+        "article": [
+            {
+                "article_id": "436",
+                "class_id": "101",
+                "title": "台风来了，知道这些可能会救你一命"
+            },
+            {
+                "article_id": "434",
+                "class_id": "101",
+                "title": "台风来了，请小心"
+            },
+            {
+                "article_id": "431",
+                "class_id": "101",
+                "title": "早安，亲爱的"
+            },
+            {
+                "article_id": "395",
+                "class_id": "1",
+                "title": "哪儿凉快哪儿待着去"
+            },
+            {
+                "article_id": "380",
+                "class_id": "1",
+                "title": "关于福利，你不知道的那点儿事"
+            },
+            {
+                "article_id": "371",
+                "class_id": "1",
+                "title": "零购官网商城最新变动"
+            },
+            {
+                "article_id": "331",
+                "class_id": "1",
+                "title": "你知道什么是那美生活圈吗"
+            },
+            {
+                "article_id": "298",
+                "class_id": "1",
+                "title": "5·12，祭奠汶川地震逝去的同胞"
+            },
+            {
+                "article_id": "258",
+                "class_id": "1",
+                "title": "因为有你，不再孤独"
+            },
+            {
+                "article_id": "113",
+                "class_id": "1",
+                "title": "那美公益行，聆听爱的声音！"
+            },
+            {
+                "article_id": "74",
+                "class_id": "1",
+                "title": "儿童日，给孩子更贴心的关怀"
+            },
+            {
+                "article_id": "32",
+                "class_id": "1",
+                "title": "内心强大者的10个特征 你具备哪一个？"
+            }
+        ],
+        "region": [
+            {
+                "goods_id": "138150",
+                "goods_name": "百立乐防O型纸尿裤【墙】",
+                "goods_title": "百立乐防O型腿纸尿裤S-XL码",
+                "default_image": "http://p3.0gow.com/pic0gow_5774af37a570a?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "59.00",
+                "Price": "46.00",
+                "view": "323",
+                "goodsNowStock": "1000",
+                "add_time": "1467346270",
+                "wlPrice": "0.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "39753",
+                "goods_name": "韩版复古交叉兔耳发箍",
+                "goods_title": "精选麂皮绒手工定制 ",
+                "default_image": "http://p3.0gow.com/pic0gow_56cd10b22fe86?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "34.00",
+                "Price": "0.00",
+                "view": "359",
+                "goodsNowStock": "150",
+                "add_time": "1467430624",
+                "wlPrice": "14.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "103281",
+                "goods_name": "927韩版蕾丝无袖连衣裙",
+                "goods_title": "白色薄款",
+                "default_image": "http://p3.0gow.com/pic0gow_5722fc5f0393e?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "198.00",
+                "Price": "27.00",
+                "view": "4945",
+                "goodsNowStock": "4000",
+                "add_time": "1467083645",
+                "wlPrice": "0.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "102857",
+                "goods_name": "Q93宽松喇叭袖连衣裙",
+                "goods_title": "七分袖系带休闲白色裙子连衣裙娃娃裙",
+                "default_image": "http://p3.0gow.com/pic0gow_57220391a4861?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "99.00",
+                "Price": "40.00",
+                "view": "2672",
+                "goodsNowStock": "6000",
+                "add_time": "1467270563",
+                "wlPrice": "0.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "131989",
+                "goods_name": "NRK玻尿酸修护精华面膜",
+                "goods_title": "台湾品牌正品NRK玻尿酸保湿修护精华面膜1*5片装",
+                "default_image": "http://p3.0gow.com/pic0gow_575e633a93986?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "69.00",
+                "Price": "0.00",
+                "view": "249",
+                "goodsNowStock": "998",
+                "add_time": "1467351617",
+                "wlPrice": "18.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "138101",
+                "goods_name": "百立乐拿拿裤【墙】",
+                "goods_title": "百立乐学步必备净柔拿拿裤L-XL码",
+                "default_image": "http://p3.0gow.com/pic0gow_5774b60258ecd?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "59.00",
+                "Price": "42.00",
+                "view": "624",
+                "goodsNowStock": "1000",
+                "add_time": "1467346346",
+                "wlPrice": "0.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "115197",
+                "goods_name": "Q1海军学院风条纹连衣裙",
+                "goods_title": "修身显瘦无袖拼接长裙",
+                "default_image": "http://p3.0gow.com/pic0gow_573a801bee8df?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "169.00",
+                "Price": "0.00",
+                "view": "2266",
+                "goodsNowStock": "1000",
+                "add_time": "1466738215",
+                "wlPrice": "22.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "115325",
+                "goods_name": "X53夏季韩版无袖雪纺衫",
+                "goods_title": "修身显瘦V领衫",
+                "default_image": "http://p3.0gow.com/pic0gow_573a96f795683?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "109.00",
+                "Price": "0.00",
+                "view": "1636",
+                "goodsNowStock": "1000",
+                "add_time": "1467351379",
+                "wlPrice": "20.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "143712",
+                "goods_name": "焚香安神时来运转倒流香炉",
+                "goods_title": "焚香安神时来运转倒流香炉另赠6粒香",
+                "default_image": "http://p3.0gow.com/pic0gow_577372b14d9ea?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "68.00",
+                "Price": "0.00",
+                "view": "327",
+                "goodsNowStock": "96",
+                "add_time": "1467356088",
+                "wlPrice": "14.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "114991",
+                "goods_name": "S88宽松七分袖V领罩衫",
+                "goods_title": "夏季多色防晒衫",
+                "default_image": "http://p3.0gow.com/pic0gow_5739ad12dd400?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "89.00",
+                "Price": "0.00",
+                "view": "1612",
+                "goodsNowStock": "6000",
+                "add_time": "1466847270",
+                "wlPrice": "16.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "118754",
+                "goods_name": "雪菲伊人眉力持久染眉膏",
+                "goods_title": "雪菲伊人持久染眉膏不脱色一字砍刀画眉",
+                "default_image": "http://p3.0gow.com/pic0gow_573fff80443a8?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "49.00",
+                "Price": "0.00",
+                "view": "257",
+                "goodsNowStock": "500",
+                "add_time": "1467351102",
+                "wlPrice": "20.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "136129",
+                "goods_name": "长袖打底衫中长款连衣裙",
+                "goods_title": "2016春装新款女装纯色百搭长袖时尚休闲打底衫中长款连衣裙",
+                "default_image": "http://p3.0gow.com/pic0gow_57657498cbc99?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "79.00",
+                "Price": "0.00",
+                "view": "2120",
+                "goodsNowStock": "3000",
+                "add_time": "1467350497",
+                "wlPrice": "20.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "143428",
+                "goods_name": "多功能手提式空调夏凉被",
+                "goods_title": " 旅行手提空调被卡通抱枕办公室午休靠垫可水洗",
+                "default_image": "http://p3.0gow.com/pic0gow_57727e0d3637e?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "46.00",
+                "Price": "36.00",
+                "view": "811",
+                "goodsNowStock": "2000",
+                "add_time": "1467350594",
+                "wlPrice": "0.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "138074",
+                "goods_name": "Q58墨绿色无袖连身裙",
+                "goods_title": "2016春夏季墨绿色绑带无袖连衣裙",
+                "default_image": "http://p3.0gow.com/pic0gow_5769005b15ca7?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "198.00",
+                "Price": "32.00",
+                "view": "4789",
+                "goodsNowStock": "999",
+                "add_time": "1467083612",
+                "wlPrice": "0.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "143451",
+                "goods_name": "卡通公仔空调被可机洗",
+                "goods_title": "卡通夏凉被可机洗公仔毛绒玩具",
+                "default_image": "http://p3.0gow.com/pic0gow_57728516c7902?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "53.00",
+                "Price": "38.00",
+                "view": "460",
+                "goodsNowStock": "700",
+                "add_time": "1467350411",
+                "wlPrice": "0.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "129602",
+                "goods_name": "B90韩版雪纺半身长裙",
+                "goods_title": "2016春夏季韩版中长款大摆百褶显瘦雪纺长裙",
+                "default_image": "http://p3.0gow.com/pic0gow_575798e048a44?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "89.00",
+                "Price": "0.00",
+                "view": "1588",
+                "goodsNowStock": "994",
+                "add_time": "1467451715",
+                "wlPrice": "22.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "142994",
+                "goods_name": "玫蘭坊净化淡斑复方油",
+                "goods_title": "斑点痘痕首选玫蘭坊净化复方油",
+                "default_image": "http://p3.0gow.com/pic0gow_577221057edec?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "268.00",
+                "Price": "67.00",
+                "view": "113",
+                "goodsNowStock": "1000",
+                "add_time": "1467350213",
+                "wlPrice": "0.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "130668",
+                "goods_name": "Q52无袖简约连衣裙",
+                "goods_title": "无袖雪纺拉链圆领",
+                "default_image": "http://p3.0gow.com/pic0gow_575bb8092acdc?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "59.00",
+                "Price": "0.00",
+                "view": "3039",
+                "goodsNowStock": "8000",
+                "add_time": "1466847278",
+                "wlPrice": "22.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "107899",
+                "goods_name": "纯棉男士内裤随机2条装",
+                "goods_title": "波西米亚风格纯棉男士内裤随机2条装",
+                "default_image": "http://p3.0gow.com/pic0gow_5769180d3727f?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "98.00",
+                "Price": "0.00",
+                "view": "383",
+                "goodsNowStock": "690",
+                "add_time": "1467277966",
+                "wlPrice": "20.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "143962",
+                "goods_name": "小米面条免煮1000g",
+                "goods_title": "白羽牌免煮小米面条甘南特产美味杂粮速食面",
+                "default_image": "http://p3.0gow.com/pic0gow_5773b0658c8df?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "49.00",
+                "Price": "0.00",
+                "view": "265",
+                "goodsNowStock": "192",
+                "add_time": "1467275380",
+                "wlPrice": "22.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "96646",
+                "goods_name": "小清新蕾丝发饰三条",
+                "goods_title": "韩国小清新蕾丝网纱织水钻发饰三条",
+                "default_image": "http://p3.0gow.com/pic0gow_57198aba720a0?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "38.00",
+                "Price": "0.00",
+                "view": "366",
+                "goodsNowStock": "998",
+                "add_time": "1467275244",
+                "wlPrice": "12.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "137872",
+                "goods_name": "短裤男透气速干五分裤",
+                "goods_title": "短裤男款运动休闲透气沙滩网球排球羽毛球情侣五分裤",
+                "default_image": "http://p3.0gow.com/pic0gow_5768dc81c8b09?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "198.00",
+                "Price": "0.00",
+                "view": "598",
+                "goodsNowStock": "6250",
+                "add_time": "1467339644",
+                "wlPrice": "20.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "143726",
+                "goods_name": "时尚创意陶瓷刀具套装",
+                "goods_title": "高档陶瓷绿色精美时尚刀具套装",
+                "default_image": "http://p3.0gow.com/pic0gow_57737603b0c84?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "38.00",
+                "Price": "0.00",
+                "view": "274",
+                "goodsNowStock": "94",
+                "add_time": "1467340350",
+                "wlPrice": "12.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "143984",
+                "goods_name": "新款束脚休闲裤男",
+                "goods_title": "哈伦束脚休闲裤",
+                "default_image": "http://p3.0gow.com/pic0gow_5773bc565f50a?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "298.00",
+                "Price": "45.00",
+                "view": "306",
+                "goodsNowStock": "2000",
+                "add_time": "1467442349",
+                "wlPrice": "0.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "137980",
+                "goods_name": "夏天时尚韩版女人发饰",
+                "goods_title": "夏天韩版时尚女人发饰 ",
+                "default_image": "http://p3.0gow.com/pic0gow_5768eb3288fc1?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "35.00",
+                "Price": "0.00",
+                "view": "528",
+                "goodsNowStock": "990",
+                "add_time": "1467275975",
+                "wlPrice": "16.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "143057",
+                "goods_name": "美体瘦身瑜伽健美硅胶绳",
+                "goods_title": "硅胶果冻拉力绳 柔韧拉力器 高弹力 美体瘦身瑜伽健美绳",
+                "default_image": "http://p3.0gow.com/pic0gow_57722d452cf3b?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "38.00",
+                "Price": "0.00",
+                "view": "100",
+                "goodsNowStock": "2218",
+                "add_time": "1467890315",
+                "wlPrice": "12.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "143561",
+                "goods_name": "客家佬纯手工制山水腐竹",
+                "goods_title": "素菜腐竹干货特产绿色健康食品",
+                "default_image": "http://p3.0gow.com/pic0gow_57733fdef0a5d?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "48.00",
+                "Price": "0.00",
+                "view": "336",
+                "goodsNowStock": "497",
+                "add_time": "1467279491",
+                "wlPrice": "20.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "143749",
+                "goods_name": "新品韩式不锈钢泡面杯",
+                "goods_title": "韩式优质食品级不锈钢女神泡面杯",
+                "default_image": "http://p3.0gow.com/pic0gow_57737ad6afe3c?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "38.00",
+                "Price": "0.00",
+                "view": "285",
+                "goodsNowStock": "100",
+                "add_time": "1467341917",
+                "wlPrice": "12.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "134568",
+                "goods_name": "大头儿子小头爸爸毛绒玩具",
+                "goods_title": "大头儿子小头爸爸围裙妈妈毛绒玩具卡通公仔布娃娃",
+                "default_image": "http://p3.0gow.com/pic0gow_5762cba52dc6b?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "99.00",
+                "Price": "33.00",
+                "view": "372",
+                "goodsNowStock": "999",
+                "add_time": "1467272721",
+                "wlPrice": "0.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "127846",
+                "goods_name": "开车骑车防晒披肩口罩",
+                "goods_title": "夏季开车骑车通用 防晒披肩加口罩",
+                "default_image": "http://p3.0gow.com/pic0gow_575249c3a4c45?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "48.00",
+                "Price": "0.00",
+                "view": "530",
+                "goodsNowStock": "28000",
+                "add_time": "1467343694",
+                "wlPrice": "20.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "131621",
+                "goods_name": "莱蔻男士控油补水洗面奶",
+                "goods_title": "莱蔻男士控油磨砂洗面奶 深层清洁保湿补水洁面乳",
+                "default_image": "http://p3.0gow.com/pic0gow_576feffc98107?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "28.00",
+                "Price": "0.00",
+                "view": "225",
+                "goodsNowStock": "9990",
+                "add_time": "1467276822",
+                "wlPrice": "12.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "133310",
+                "goods_name": "无袖印花长裙XM6033",
+                "goods_title": "2016夏季中长裙子无袖修身吊带印花连衣裙女",
+                "default_image": "http://p3.0gow.com/pic0gow_57603edf57307?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "498.00",
+                "Price": "44.00",
+                "view": "1871",
+                "goodsNowStock": "6000",
+                "add_time": "1467340220",
+                "wlPrice": "0.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "142412",
+                "goods_name": "百雀羚清痘控油洁面泡沫",
+                "goods_title": "百雀羚清痘控油洁面泡沫150ml",
+                "default_image": "http://p3.0gow.com/pic0gow_57712a76c9623?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "65.00",
+                "Price": "25.00",
+                "view": "157",
+                "goodsNowStock": "231",
+                "add_time": "1467357848",
+                "wlPrice": "0.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "142703",
+                "goods_name": "九珠手掌全身按摩器",
+                "goods_title": "九珠按摩器 手掌全身滚珠经络按摩刷",
+                "default_image": "http://p3.0gow.com/pic0gow_5771f3390b896?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "99.00",
+                "Price": "0.00",
+                "view": "284",
+                "goodsNowStock": "3000",
+                "add_time": "1467627237",
+                "wlPrice": "16.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "143074",
+                "goods_name": "玫瑰胎菊养生花茶组合",
+                "goods_title": "美容养颜 清热解毒 暖宫养肝 手机电脑一族必备",
+                "default_image": "http://p3.0gow.com/pic0gow_57722c7b6bc83?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "98.00",
+                "Price": "29.00",
+                "view": "210",
+                "goodsNowStock": "1996",
+                "add_time": "1467279571",
+                "wlPrice": "0.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "141246",
+                "goods_name": "多肉植物花盆带托盘4个装",
+                "goods_title": "陶瓷多肉花盆中号花盆一组4个装",
+                "default_image": "http://p3.0gow.com/pic0gow_576e4f01a3549?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "58.00",
+                "Price": "0.00",
+                "view": "244",
+                "goodsNowStock": "10000",
+                "add_time": "1467271985",
+                "wlPrice": "20.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "141572",
+                "goods_name": "欧美英伦风牛津小学生书包",
+                "goods_title": "欧美英伦时尚牛津布小学生减负护脊书包",
+                "default_image": "http://p3.0gow.com/pic0gow_577b1a16803d7?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "198.00",
+                "Price": "49.00",
+                "view": "412",
+                "goodsNowStock": "3000",
+                "add_time": "1467712733",
+                "wlPrice": "0.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "143799",
+                "goods_name": "时尚保鲜情侣便当盒2件套",
+                "goods_title": "优质不锈钢饭盒食品级PP材质情侣便当盒2件套",
+                "default_image": "http://p3.0gow.com/pic0gow_577381a5c3ac7?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "68.00",
+                "Price": "0.00",
+                "view": "253",
+                "goodsNowStock": "97",
+                "add_time": "1467337185",
+                "wlPrice": "22.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "144446",
+                "goods_name": "多功能便携杯子奶瓶收纳架",
+                "goods_title": "彩色便携家用杯子架奶瓶收纳架水杯沥水收纳架",
+                "default_image": "http://p3.0gow.com/pic0gow_57748ae3ef49b?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "38.00",
+                "Price": "0.00",
+                "view": "561",
+                "goodsNowStock": "500",
+                "add_time": "1467275930",
+                "wlPrice": "14.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "117512",
+                "goods_name": "520约么礼盒超薄安全套",
+                "goods_title": "375至尊超薄003安全套520约么礼盒避孕套情趣成人性用品",
+                "default_image": "http://p3.0gow.com/pic0gow_573d7fa6b3bfd?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "99.00",
+                "Price": "43.00",
+                "view": "410",
+                "goodsNowStock": "835",
+                "add_time": "1467337114",
+                "wlPrice": "0.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "126623",
+                "goods_name": "法浪仕瘦身仟体精油",
+                "goods_title": "法浪仕瘦身仟体精油10ml瓶",
+                "default_image": "http://p3.0gow.com/pic0gow_574ee8e07a673?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "88.00",
+                "Price": "0.00",
+                "view": "357",
+                "goodsNowStock": "872",
+                "add_time": "1467442043",
+                "wlPrice": "18.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "131640",
+                "goods_name": "莱蔻男士乳液补水防晒控油",
+                "goods_title": "莱蔻男士乳液保湿补水防晒控油 男士化妆品护肤品",
+                "default_image": "http://p3.0gow.com/pic0gow_575fa6bfe8512?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "38.00",
+                "Price": "0.00",
+                "view": "204",
+                "goodsNowStock": "2591",
+                "add_time": "1467024100",
+                "wlPrice": "12.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "141251",
+                "goods_name": "素烧粗陶花盆子母盆一对",
+                "goods_title": "粗陶多肉植物花盆复古高档植物子母盆一大一小一对",
+                "default_image": "http://p3.0gow.com/pic0gow_576e54b1b9daa?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "68.00",
+                "Price": "0.00",
+                "view": "255",
+                "goodsNowStock": "10000",
+                "add_time": "1467271854",
+                "wlPrice": "18.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "143110",
+                "goods_name": "男士棉麻九分裤休闲裤",
+                "goods_title": "夏季胖子大码男士新品棉麻九分裤休闲裤青少年宽松束脚裤",
+                "default_image": "http://p3.0gow.com/pic0gow_577238ad83554?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "98.00",
+                "Price": "39.00",
+                "view": "422",
+                "goodsNowStock": "1000",
+                "add_time": "1467275412",
+                "wlPrice": "0.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "143823",
+                "goods_name": "新款玲珑功夫茶具五件套",
+                "goods_title": "新款玲珑茶杯600mL套装",
+                "default_image": "http://p3.0gow.com/pic0gow_577386a0dac1e?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "68.00",
+                "Price": "0.00",
+                "view": "470",
+                "goodsNowStock": "88",
+                "add_time": "1467337013",
+                "wlPrice": "20.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "144451",
+                "goods_name": "儿童 蝴蝶结发夹",
+                "goods_title": "气质儿童对夹送人工珍珠对夹套装",
+                "default_image": "http://p3.0gow.com/pic0gow_5774dd8629809?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "38.00",
+                "Price": "0.00",
+                "view": "404",
+                "goodsNowStock": "196",
+                "add_time": "1467278111",
+                "wlPrice": "8.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "117563",
+                "goods_name": "32卷 纸巾卫生纸厕纸",
+                "goods_title": "32卷 纯木浆5斤无纸屑家庭装妇婴卷筒卫生纸",
+                "default_image": "http://p3.0gow.com/pic0gow_576b9262f089d?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "48.00",
+                "Price": "28.00",
+                "view": "7897",
+                "goodsNowStock": "4356",
+                "add_time": "1464846801",
+                "wlPrice": "0.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "141120",
+                "goods_name": "女性高潮液外用喷剂成人用",
+                "goods_title": "女用高潮液性冷淡催兴奋喷剂外用快感增强激情调情成人情趣性用品",
+                "default_image": "http://p3.0gow.com/pic0gow_576e05e07cf66?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "168.00",
+                "Price": "0.00",
+                "view": "4146",
+                "goodsNowStock": "494",
+                "add_time": "1467942883",
+                "wlPrice": "22.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "141625",
+                "goods_name": "凉鞋男士夏季休闲沙滩男鞋",
+                "goods_title": "夏季男士凉鞋新款沙滩罗马凉拖鞋韩版潮鞋夏天跑步拖时尚一字拖",
+                "default_image": "http://p3.0gow.com/pic0gow_576fe5677abae?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "68.00",
+                "Price": "36.00",
+                "view": "162",
+                "goodsNowStock": "999",
+                "add_time": "1467941572",
+                "wlPrice": "0.00",
+                "type": "zuhe"
+            },
+            {
+                "goods_id": "142466",
+                "goods_name": "涂鸦雨伞折叠创意太阳伞",
+                "goods_title": "黑胶防紫外线太阳伞晴雨伞 黑胶伞",
+                "default_image": "http://p3.0gow.com/pic0gow_5774ce26e5892?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "58.00",
+                "Price": "35.00",
+                "view": "298",
+                "goodsNowStock": "995",
+                "add_time": "1467272963",
+                "wlPrice": "0.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "143834",
+                "goods_name": "冰裂功夫茶具七件套特价",
+                "goods_title": "冰裂7头功夫茶具墨绿陶瓷茶具",
+                "default_image": "http://p3.0gow.com/pic0gow_5773885f092f1?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "58.00",
+                "Price": "0.00",
+                "view": "389",
+                "goodsNowStock": "90",
+                "add_time": "1467336927",
+                "wlPrice": "20.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "144464",
+                "goods_name": "新疆花草茶血菊菊花茶3罐",
+                "goods_title": "天山昆仑雪菊 新疆花草茶  雪菊茶叶 血菊菊花茶共120克",
+                "default_image": "http://p3.0gow.com/pic0gow_57748c4f9ccc0?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "199.00",
+                "Price": "0.00",
+                "view": "287",
+                "goodsNowStock": "9990",
+                "add_time": "1467270835",
+                "wlPrice": "22.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "101578",
+                "goods_name": "天然芙蓉石三圈手链",
+                "goods_title": "8mm芙蓉石3圈藏银手链",
+                "default_image": "http://p3.0gow.com/pic0gow_5732a555e9459?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "298.00",
+                "Price": "39.00",
+                "view": "242",
+                "goodsNowStock": "998",
+                "add_time": "1467343211",
+                "wlPrice": "0.00",
+                "type": "base"
+            },
+            {
+                "goods_id": "126778",
+                "goods_name": "家用洗车神器【墙】",
+                "goods_title": "家用高压水枪伸缩水管洗车水枪软管洗车器花园浇花工具套装",
+                "default_image": "http://p3.0gow.com/pic0gow_574fb70d84efe?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "scPrice": "108.00",
+                "Price": "36.00",
+                "view": "768",
+                "goodsNowStock": "9980",
+                "add_time": "1467345852",
+                "wlPrice": "0.00",
+                "type": "base"
+            }
+        ],
+        "miaosha": [],
+        "hotlist": [
+            {
+                "goods_id": 67138,
+                "goods_name": "竹醋足贴排毒50片装",
+                "default_image": "http://p3.0gow.com/pic0gow_56f8c9bbc180e?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "Price": 0,
+                "scPrice": 198,
+                "wlPrice": 18
+            },
+            {
+                "goods_id": 4783,
+                "goods_name": "蓓美琳竹炭去黑头鼻膜",
+                "default_image": "http://p3.0gow.com/pic0gow_56d3a7d6cf439?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "Price": 0,
+                "scPrice": 156,
+                "wlPrice": 16
+            },
+            {
+                "goods_id": 93889,
+                "goods_name": "蟑螂捕捉器2个装",
+                "default_image": "http://p3.0gow.com/pic0gow_571ece5754f91?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "Price": 0,
+                "scPrice": 68,
+                "wlPrice": 16
+            },
+            {
+                "goods_id": 58671,
+                "goods_name": "老北京布鞋休闲男鞋",
+                "default_image": "http://p3.0gow.com/pic0gow_56e9677d5d502?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "Price": 0,
+                "scPrice": 128,
+                "wlPrice": 22
+            },
+            {
+                "goods_id": 39954,
+                "goods_name": "防晒丝巾披巾沙滩巾",
+                "default_image": "http://p3.0gow.com/pic0gow_56cd2cb9e87a4?imageMogr2/thumbnail/240x/strip/quality/75/format/jpg",
+                "Price": 0,
+                "scPrice": 79,
+                "wlPrice": 25
+            },
+            {
+                "goods_id": 2565,
+                "goods_name": "尚康戒烟可充电电子烟",
+                "default_image": "http://p3.0gow.com/pic0gow_56e6742cc11ef?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "Price": 0,
+                "scPrice": 168,
+                "wlPrice": 22
+            },
+            {
+                "goods_id": 67754,
+                "goods_name": "男士船袜20双随机【墙】",
+                "default_image": "http://p3.0gow.com/pic0gow_56f51353179c5?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "Price": 0,
+                "scPrice": 58,
+                "wlPrice": 20
+            },
+            {
+                "goods_id": 121225,
+                "goods_name": "户外旅行居家休闲加长吊床",
+                "default_image": "http://p3.0gow.com/pic0gow_57445e9972912?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "Price": 0,
+                "scPrice": 265,
+                "wlPrice": 16
+            },
+            {
+                "goods_id": 122095,
+                "goods_name": "红豆薏米山药粉【墙】",
+                "default_image": "http://p3.0gow.com/pic0gow_5746897f02e15?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "Price": 0,
+                "scPrice": 39,
+                "wlPrice": 22
+            },
+            {
+                "goods_id": 26161,
+                "goods_name": "英国卫裤",
+                "default_image": "http://p3.0gow.com/pic0gow_56c2a30749806?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "Price": 0,
+                "scPrice": 98,
+                "wlPrice": 18
+            },
+            {
+                "goods_id": 71683,
+                "goods_name": "亚麻凉席 可折叠可水洗",
+                "default_image": "http://p3.0gow.com/pic0gow_574817c8774c0?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "Price": 0,
+                "scPrice": 98,
+                "wlPrice": 22
+            },
+            {
+                "goods_id": 75898,
+                "goods_name": "排毒祛湿睡眠足贴【墙】",
+                "default_image": "http://p3.0gow.com/pic0gow_5700a802e8e53?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "Price": 0,
+                "scPrice": 68,
+                "wlPrice": 22
+            },
+            {
+                "goods_id": 44019,
+                "goods_name": "户外遮阳带丝巾大沿帽",
+                "default_image": "http://p3.0gow.com/pic0gow_56d30d3e7d0d4?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "Price": 0,
+                "scPrice": 63,
+                "wlPrice": 22
+            },
+            {
+                "goods_id": 60813,
+                "goods_name": "23颗强磁土豪金英国卫裤",
+                "default_image": "http://p3.0gow.com/pic0gow_56ec60b921350?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "Price": 39,
+                "scPrice": 298,
+                "wlPrice": 0
+            },
+            {
+                "goods_id": 105880,
+                "goods_name": "眼袋祛无踪 【墙】",
+                "default_image": "http://p4.0gow.com/content0gow_5757caf622f95?imageMogr2/thumbnail/320x/strip/quality/80/format/jpg",
+                "Price": 0,
+                "scPrice": 199,
+                "wlPrice": 22
+            },
+            {
+                "goods_id": 106873,
+                "goods_name": "韩版大码宽松短袖雪纺衫",
+                "default_image": "http://p3.0gow.com/pic0gow_572c5c5577a46?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "Price": 0,
+                "scPrice": 69,
+                "wlPrice": 19
+            },
+            {
+                "goods_id": 45894,
+                "goods_name": "排毒祛湿改善睡眠52贴",
+                "default_image": "http://p3.0gow.com/pic0gow_56d6723a6072a?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "Price": 0,
+                "scPrice": 55,
+                "wlPrice": 18
+            },
+            {
+                "goods_id": 5119,
+                "goods_name": "5斤6 30卷妇婴卫生纸",
+                "default_image": "http://p3.0gow.com/pic0gow_56e6a81f4daea?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "Price": 28,
+                "scPrice": 48,
+                "wlPrice": 0
+            },
+            {
+                "goods_id": 68007,
+                "goods_name": "冰丝提花凉席三件套",
+                "default_image": "http://p3.0gow.com/pic0gow_56f54b2cc1463?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "Price": 55,
+                "scPrice": 588,
+                "wlPrice": 0
+            },
+            {
+                "goods_id": 34603,
+                "goods_name": "遇水开花晴雨伞太阳伞",
+                "default_image": "http://p3.0gow.com/pic0gow_56c1711eb89ad?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+                "Price": 0,
+                "scPrice": 78,
+                "wlPrice": 16
+            }
+        ]
+    }
+}
