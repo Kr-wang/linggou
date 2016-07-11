@@ -46,7 +46,8 @@ angular.module('starter', ['ionic','starter.controller'])
       url:'/sort',
       views:{
         'tab-sort':{
-          templateUrl:'./tpls/sort.html'
+          templateUrl:'./tpls/sort.html',
+          controller:'sortController'
         }
       }
     })

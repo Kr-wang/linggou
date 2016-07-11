@@ -9815,7 +9815,89 @@ a.button {
   -webkit-transition-duration: 0s;
   transition-duration: 0s; }
 
-#sort {
-  height: 50px;
+html, body {
+  font-size: 100px;
   width: 100%;
-  background: red; }
+  height: 100%; }
+
+ion-nav-view {
+  font-size: .12rem; }
+
+#sort {
+  font-size: .12rem;
+  width: 100%; }
+  #sort .bar-header h1 {
+    font-weight: 600;
+    color: #000; }
+  #sort .bar-header .noborder {
+    border: 0;
+    background: #fff; }
+    #sort .bar-header .noborder img {
+      margin-top: .05rem;
+      width: .22rem; }
+  #sort .bar-subheader {
+    padding: 0;
+    line-height: .38rem;
+    color: #000; }
+    #sort .bar-subheader .sortbanner .swiper-wrapper {
+      margin-left: -37%; }
+      #sort .bar-subheader .sortbanner .swiper-wrapper .swiper-slide {
+        width: .75rem;
+        text-align: center; }
+      #sort .bar-subheader .sortbanner .swiper-wrapper .active {
+        color: #fa5b4e;
+        n: center;
+        border-bottom: 2px solid #fa5b4e; }
+    #sort .bar-subheader .hasborder {
+      border-left: 1px solid #c4c4c4 !important;
+      height: .425rem !important;
+      width: .45rem !important;
+      border-radius: 0;
+      background: #fff; }
+  #sort ion-content {
+    width: 100%; }
+    #sort ion-content .sortsection .h2title {
+      height: .36rem;
+      line-height: .36rem;
+      width: 100%;
+      font-size: .19rem;
+      text-align: center;
+      background: url(../images/sortbg.png) left center;
+      background-size: contain;
+      background-repeat: no-repeat; }
+    #sort ion-content .sortsection .sortpic {
+      width: 100%;
+      background: #f66; }
+      #sort ion-content .sortsection .sortpic .row {
+        padding: 0 !important;
+        margin: 0 !important; }
+        #sort ion-content .sortsection .sortpic .row .col {
+          padding: 0 !important;
+          margin: .04rem 0 !important; }
+          #sort ion-content .sortsection .sortpic .row .col:nth-child(2) {
+            margin: .04rem .04rem !important; }
+      #sort ion-content .sortsection .sortpic .row {
+        background: #fff; }
+        #sort ion-content .sortsection .sortpic .row .col {
+          padding-bottom: -30px !important; }
+          #sort ion-content .sortsection .sortpic .row .col span {
+            position: relative;
+            left: 0;
+            bottom: .3rem;
+            display: block;
+            height: .0rem;
+            width: 100%;
+            text-align: center; }
+            #sort ion-content .sortsection .sortpic .row .col span i {
+              display: block;
+              height: .20rem;
+              line-height: .20rem;
+              border-radius: .05rem;
+              color: #fff;
+              width: 50%;
+              margin-left: 25%;
+              background: #000;
+              background: rgba(0, 0, 0, 0.5); }
+          #sort ion-content .sortsection .sortpic .row .col img {
+            width: 100%;
+            height: 1rem; }

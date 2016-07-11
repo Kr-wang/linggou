@@ -1,15 +1,54 @@
 
-<ion-pane>
-    <ion-header-bar align-title="center" class="bar-light">
+<ion-pane id="sort" ng-controller="sortController">
+    <div class="bar bar-header" align-title="center">
       <h1 class="title">分类</h1>
-      <button class="sousuo button button-icon ion-ios-search"></button>
-    </ion-header-bar>
-    <div id="sort"></div>
-    <ion-pane>
-      <ion-content scrollbar-y="false">
-        <ion-list>
+      <button class="button noborder">
+        <img src="./images/category_search.png">
+      </button>
+    </div>
+    <!-- ion-pane 定义视口-->
+    <!-- direction 定义滚动方向 默认为Y , xy为随意滚-->
+    <!-- lock true为当上下时左右不能滚-->
+    <!-- scroll false为禁止滚动-->
+    <!-- padding 上下填充-->
+    <!-- scrollbar-x false取消滚动条-->
+    <!-- overflow-scroll true为浏览器自带滚动条，会禁止橡皮筋效果-->
+    <!-- start-y 自动弹跳效果30-->
+    <!-- has-bouncing="true" 禁止橡皮筋效果-->
+    <!-- on-scroll="scrollAction()" 绑定屏幕滚动事件-->
+    <!-- on-scroll-complete="scrollEndAction()" 滚动结束事件-->
+    <!-- scroll-event-interval="30" 滚动触发间隔30ms，数值越大滚动触发次数越少-->
 
-       </ion-list>
+    <div class="bar bar-subheader"  >
+      <div class="swiper-container sortbanner">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide" ng-repeat="listname in sortlist">
+              {{listname.name}} </div>
+        </div>
+      </div>
+      <button class="button hasborder ion-ios-arrow-down"></button>
+    </div>
+    <ion-content class="has-subheader"
+    direction="y"
+
+    scroll="true"
+    scrollbar-x="false"
+    scrollbar-y="false"
+    overflow-scroll="false"
+    has-bouncing="true"
+    on-scroll="scrollAction()"
+    on-scroll-complete="scrollEndAction()"
+    scroll-event-interval="100">
+      <div class="sortsection" ng-repeat="list in sortlist" >
+        <h2 class="h2title">{{list.name}}</h2>
+        <div class="sortpic" >
+          <div class="row row-top" ng-repeat="describe in sortDescribe0">
+            <div class="col" ng-repeat="des in describe">
+              <img ng-src="{{des.img_b}}" />
+              <span><i>{{des.name}}</i></span>
+            </div>
+          </div>
+        </div>
+      </div>
     </ion-content>
-  </ion-pane>
 </ion-pane>
